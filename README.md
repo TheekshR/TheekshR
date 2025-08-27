@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Theekshana Rathnayake</h1>
 <h3 align="center">An udergraduate student with a strong interest in Software Engineering, Data Science and UI/UX designing.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theekshr" alt="theekshr" /></a> </p>
 
 - 🔭 I’m currently working on **ZeroDelay**
 
