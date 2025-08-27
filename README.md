@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Cloud Computing**
 
-- 👯 I’m looking to collaborate on [FutureWatt](https://github.com/TheekshR/FutureWatt)
+- 👯 I collaborate on [FutureWatt](https://github.com/TheekshR/FutureWatt)
 
 - 💬 Ask me about **ReactJS, NodeJS, CSS**
 
