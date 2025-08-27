@@ -14,7 +14,6 @@
 - 📫 How to reach me **theeksh99@gmail.com**
 
 - ⚡ Fun fact **I think I'm creative.**
-- 
 </p>
 
 <h3 align="left"  width="60" height="100">Languages and Tools:</h3>
